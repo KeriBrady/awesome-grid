@@ -1,6 +1,6 @@
 {
   "name": "simple-grid",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Super simple 12-column responsive grid.",
   "main": "index.js",
   "scripts": {
@@ -19,11 +19,11 @@
   "bugs": {
     "url": "https://github.com/KeriBrady/simple-grid/issues"
   },
-  "homepage": "https://github.com/KeriBrady/simple-grid",
   "ignore": [
     "**/.*",
     "node_modules",
     "simple-grid",
     "README.md"
-  ]
+  ],
+  "homepage": "https://github.com/KeriBrady/simple-grid"
 }
