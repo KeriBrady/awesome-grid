@@ -1,0 +1,28 @@
+{
+  "name": "simple-grid",
+  "version": "0.1.0",
+  "description": "Super simple 12-column responsive grid.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KeriBrady/simple-grid.git"
+  },
+  "keywords": [
+    "grid",
+    "responsive"
+  ],
+  "author": "Keri Brady, Ben Spears",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KeriBrady/simple-grid/issues"
+  },
+  "homepage": "https://github.com/KeriBrady/simple-grid",
+  "ignore": [
+    "node_modules",
+    "simple-grid",
+    "README.md",
+  ]
+}
